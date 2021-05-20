@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color:#94bbe9;
+    width:100%;
+}
+img{
+    width: 980px;
+    border-radius: 50%;
+}
+hr{
+    height: 10px;
+    background-color: black;
+    width: 100%;
+}
+h1{
+ font-size: 50px;
+}
+#div1{
+  background: radial-gradient(circle, rgba(197,174,238,1) 51%, rgba(148,187,233,1) 100%);
+  margin-top: 100px; 
+  text-align: center;
+}
+menu{
+    position:fixed;
+    top:10px;
+    list-style:none;
+    width: 100%;
+    margin-left: 5%
+}
+
+li{
+  font-size: 50px;
+  float: left;
+  color:brown;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  padding-left: 9px;
+  padding-right: 9px;
+    margin-right: 9%;
+}
+
+.link:hover{
+    font-size:55px;
+    background-color:floralwhite;
+}
+h2{
+ background-color: whitesmoke;
+    width: 100%;
+}
